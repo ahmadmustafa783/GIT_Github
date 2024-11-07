@@ -1,16 +1,21 @@
 Project Title: Resume Template
+
 Project Description
 This project involved creating a responsive resume template using HTML, CSS, and JavaScript. The template showcases personal details, education, experience, skills, and projects in a clean, organized layout suitable for professional use. This template was created as part of a collaborative GitHub assignment, with separate branches for independent work.
 
+
 Instructions to Run the Project
 Clone the Repository: Use the following command to clone the GitHub repository:
+
 
 bash
 Copy code
 git clone <repository-link>
 Open the Project: Navigate to the project directory, locate the index.html file, and open it in a web browser to view the resume template.
 
+
 Modify as Needed: Update index.html, style.css, and scripts.js to customize the resume content and style.
+
 
 Tools and Technologies Used
 HTML5: For structuring the resume content.
